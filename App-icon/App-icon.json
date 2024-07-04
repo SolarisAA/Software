@@ -1,2 +1,6 @@
 {"name":"Solaris-APP", "description":"作者Solaris", "icons":[
-{"name":"GoogleVoice", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/APP-icon/icon/GoogleVoice.png"}]}  
+{"name":"1Password", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/1Password.png"},
+{"name":"1PasswordCircle", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/1PasswordCircle.png"},
+{"name":"Talkatone", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/Talkatone.png"},
+{"name":"TalkatoneCircle", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/TalkatoneCircle.png"},   
+{"name":"GoogleVoice", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/GoogleVoice.png"}]}  
