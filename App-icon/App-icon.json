@@ -1,4 +1,8 @@
 {"name":"Solaris-APP", "description":"作者Solaris", "icons":[
+{"name":"Nicegram", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/Nicegram.png"},
+{"name":"iMe", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/iMe.png"},  
+{"name":"Swiftgram", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/Swiftgram.png"},
+{"name":"Turrit", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/Turrit.png"},  
 {"name":"1Password", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/1Password.png"},
 {"name":"1PasswordCircle", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/1PasswordCircle.png"},
 {"name":"Talkatone", "url":"https://raw.githubusercontent.com/SolarisAA//Myicon/main/App-icon/icon/Talkatone.png"},
